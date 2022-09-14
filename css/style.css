@@ -1,0 +1,26 @@
+@font-face{
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit.woff2") format("woff2"), url("../fonts/Larsseit.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+body{
+	font-family: Larsseit;
+}
+.h1{
+	color: rgb(128, 0, 0);
+}
+span{
+	color: yellow;
+}
+p{
+color: darkgoldenrod;
+}
+h2{
+	color: blue;
+}
+a{
+	color: darkgreen;
+}
